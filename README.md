@@ -7,7 +7,7 @@ This repository is dedicated to documenting my journey with active control; incl
 ## Roadmap
 
 #### Theory
--bps wiki?
+- bps wiki?
 #### CFD
 - Using sim scale
 #### CAD
